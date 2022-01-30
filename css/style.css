@@ -59,6 +59,10 @@ img {
     margin: 10px;
 }
 
+img:hover {
+    opacity: 0.3;
+}
+
 /* Add borders around the main components and some
 space too*/
 header, nav, main, h1, footer {
